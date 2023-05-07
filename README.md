@@ -21,9 +21,9 @@ To obtain training accuracy :
 
 ```bash
 
-python training_accuracy/sift/sift_training_accuracy.py
+python train_partseg.py.py
 
-python training_accuracy/vgg/vgg_training_accuracy.py
+python test_partseg.py.py
 
 ```
 
