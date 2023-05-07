@@ -17,8 +17,8 @@ Training is done using patches sampled from 21 images of Kinmaze dataset. Testin
 
 ## How to Run
 
-To obtain training accuracy : 
-train 
+Branch-leaf segmentation : 
+#train 
 
 ```bash
 
@@ -26,7 +26,7 @@ python train_partseg.py
 
 
 ```
-test
+#test
 ```bash
 
 
@@ -34,7 +34,7 @@ python test_partseg.py
 
 ```
 
-To obtain correlation : 
+Single leaf segmentation : 
 
 ```bash
 python correlation/kinmaze_data/vgg/vgg_testing_on_kinmaze.py path_to_directory_containing_test_images/ output_probs.xlsx
