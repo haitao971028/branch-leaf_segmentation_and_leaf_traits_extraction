@@ -47,4 +47,6 @@ python yemai.py
 ## References
 [1] Qi, C.R.; Yi, L.; Su, H.; Guibas, L.J. PointNet++: Deep hierarchical feature learning on point sets in a metric space. In Proceedings of the Proceedings of the 31st International Conference on Neural Information Processing Systems, Long Beach, CA, USA, 4–9 December 2017; pp. 5105–5114.
 
-
+## Supplement
+If readers have any questions about this study code, please contact the authors.
+Eamil address: haitao971028@gmail.com,yuemu@njau.edu.cn
