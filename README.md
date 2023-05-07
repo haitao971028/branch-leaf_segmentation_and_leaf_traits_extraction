@@ -39,7 +39,7 @@ python MS_cluster.py
 ## Midrib fitting algorithm
 
 ```bash
-python test_partseg.py
+python yemai.py
 
 ```
 
