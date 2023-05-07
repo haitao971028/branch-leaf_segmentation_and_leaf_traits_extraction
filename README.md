@@ -9,11 +9,8 @@ To plan the perfect time for harvest of rice crops, we detect and quantify the f
 
 ## Methodology 
 
-The basic outline of the method is as follows. We use an SVM classifier with a sliding window to detect flowering panicles in the image. To generate the features to be given as input to the SVM classifier, we use two methods of feature extraction and compare their performances.
- - Feature extraction using SIFT Descriptors
- - Feature extraction using a deep neural network (VGG-16 [2])
+In this paper, we proposed an automatic pipeline for branch–leaf segmentation and leaf phenotypic parameter measurement for pear trees based on lidar point cloud. The method segments branch–leaf point clouds based on the PointNet++ model, extracts single leaf data by mean shift clustering algorithm, and estimates leaf inclination angle, length, width, and area by plane fitting, midrib fitting, and triangulation. It achieved high accuracy in branch–leaf segmentation, single leaf extraction, and leaf phenotypic parameter estimation. 
 
-Training is done using patches sampled from 21 images of Kinmaze dataset. Testing is done on the full 5184x3456 images from Kinmaze dataset. [1].
 
 ## Branch-leaf segmentation : 
 
