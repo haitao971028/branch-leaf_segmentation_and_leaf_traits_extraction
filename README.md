@@ -15,9 +15,7 @@ The basic outline of the method is as follows. We use an SVM classifier with a s
 
 Training is done using patches sampled from 21 images of Kinmaze dataset. Testing is done on the full 5184x3456 images from Kinmaze dataset. [1].
 
-## How to Run
-
-Branch-leaf segmentation : 
+## Branch-leaf segmentation : 
 
 train 
 
@@ -35,7 +33,7 @@ python test_partseg.py
 
 ```
 
-Single leaf segmentation : 
+## Single leaf segmentation : 
 
 ```bash
 python MS_cluster.py
