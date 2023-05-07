@@ -18,12 +18,19 @@ Training is done using patches sampled from 21 images of Kinmaze dataset. Testin
 ## How to Run
 
 To obtain training accuracy : 
+train 
 
 ```bash
 
-python train_partseg.py.py
+python train_partseg.py
 
-python test_partseg.py.py
+
+```
+test
+```bash
+
+
+python test_partseg.py
 
 ```
 
