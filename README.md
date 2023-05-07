@@ -18,7 +18,8 @@ Training is done using patches sampled from 21 images of Kinmaze dataset. Testin
 ## How to Run
 
 Branch-leaf segmentation : 
-#train 
+
+train 
 
 ```bash
 
@@ -26,7 +27,7 @@ python train_partseg.py
 
 
 ```
-#test
+test
 ```bash
 
 
