@@ -38,7 +38,7 @@ python test_partseg.py
 Single leaf segmentation : 
 
 ```bash
-python correlation/kinmaze_data/vgg/vgg_testing_on_kinmaze.py path_to_directory_containing_test_images/ output_probs.xlsx
+python MS_cluster.py
 ```
 
 ## Results
