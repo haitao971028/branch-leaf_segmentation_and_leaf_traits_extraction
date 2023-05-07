@@ -48,44 +48,7 @@ python test_partseg.py
 
 
 
-| SIFT Features with D=5 Pixels | VGG Features          | 
-| ------------- |:-------------:| 
-| <img src="https://i.imgur.com/ibPYUpn.png" width="400" />    | <img src="https://i.imgur.com/QWnS4EK.png" width="450" /> |
-
-Flowering panicles detected in one of the images of the Kinmaze dataset: 
-
-<img src="https://i.imgur.com/AaI9BCf.jpg" width="800" />
-
-The correlation results obtained on the whole-images are as follows :
-
-| Approach | Pearson Correlation Coefficient          | 
-| ------------- |:-------------:| 
-| VGG     | **0.7495** | 
-| SIFT      | 0.5435       | 
-
-The computational cost for VGG based method is as follows : 
-
-| Task | Time Taken          | 
-| ------------- |:-------------:| 
-| Feature extraction using VGG and training the SVM classifier     | 42 seconds | 
-| Detecting flowering panicles      | 29 seconds per image       |
-
-GPU Used : NVIDIA Geforce GTX 1080Ti (11 GB Memory)
-
-## Acknowledgements 
-Paper written under the able guidance of :
- 
-  **Dr. Vineeth N Balasubramanian**,  IIT Hyderabad, India.
-
-  **Dr. Wei Guo**, University of Tokyo, Tokyo.
-
-## Code Contributors
-Manasa Kumar [[github]](https://www.github.com/manasaKay/)
-
-Sai Vikas [[github]](https://www.github.com/saivikas3/)
-
 ## References
-[1] Guo W, Fukatsu T, Ninomiya S. *Automated characterization of flowering dynamics in rice using field-acquired time-series RGB images.* Plant Methods. 2015;11:7. [doi:10.1186/s13007-015-0047-9](https://doi.org/10.1186/s13007-015-0047-9)
+[1] Qi, C.R.; Yi, L.; Su, H.; Guibas, L.J. PointNet++: Deep hierarchical feature learning on point sets in a metric space. In Proceedings of the Proceedings of the 31st International Conference on Neural Information Processing Systems, Long Beach, CA, USA, 4–9 December 2017; pp. 5105–5114.
 
-[2] Karen Simonyan, Andrew Zisserman. *Very Deep Convolutional Networks for Large-Scale Image Recognition.* [arXiv:1409.1556](https://arxiv.org/abs/1409.1556)
 
