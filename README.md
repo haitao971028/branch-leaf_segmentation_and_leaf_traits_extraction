@@ -39,9 +39,12 @@ python test_partseg.py
 python MS_cluster.py
 ```
 
-## Results
+## Midrib fitting algorithm
 
-The ROC curves obtained for the SVM classifier after performing cross validation on patches are as follows :
+```bash
+python test_partseg.py
+
+```
 
 
 
