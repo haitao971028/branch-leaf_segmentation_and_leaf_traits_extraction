@@ -1,9 +1,11 @@
 
 ## Introduction
 
-This is an implementation of submitted paper: 
+This is an implementation of submitted paper.
 
-Li, H.; Wu, G.; Tao, S.; Yin, H.; Qi, K.; Zhang, S.; Guo, W.; Ninomiya, S.; Mu, Y. Automatic Branch–Leaf Segmentation and Leaf Phenotypic Parameter Estimation of Pear Trees Based on Three-Dimensional Point Clouds. Sensors 2023, 23, x. https://doi.org/10.3390/xxxxx
+
+## Citation
+Li, H.; Wu, G.; Tao, S.; Yin, H.; Qi, K.; Zhang, S.; Guo, W.; Ninomiya, S.; Mu, Y. Automatic Branch–Leaf Segmentation and Leaf Phenotypic Parameter Estimation of Pear Trees Based on Three-Dimensional Point Clouds. Sensors 2023, 23, 4572. https://doi.org/10.3390/s23094572
 
 
 ## Methodology 
